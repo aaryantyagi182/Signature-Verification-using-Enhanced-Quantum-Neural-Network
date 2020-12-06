@@ -20,8 +20,6 @@ Quantum computing is the use of quantum phenomena such as superposition and enta
 Traditional computers operate on binary bits — information processed in the form of ones or zeroes. But quantum computers transmit information via quantum bits, or qubits, which can exist either as one or zero or both simultaneously.
 Quantum Bits (Qubits)
 Many people define Qubits as though they are very complex, like they exist as both zero and one at the same time however this definition is not completely correct nor it covers the true idea of qubits. This definition is quite an oversimplification of the behavior of Qubits. Let us assume that the state of a Qubit is represented as a position on a sphere, like the Earth. With the two extreme poles namely north pole and south pole being states 1 and 0 respectively. Quantum gates operate as though they are moving it around the globe at any point in time. Quantum gates are similar to logic gates but Quantum gates operate on Qubits. A collection of quantum gates forms a Quantum circuit. 
-
-                                 Figure 1- Quantum Bits (Qubits)
  
 General representation of Qubits can be given by 
 |q⟩ = cos(θ/2)|0⟩ + eiϕsin θ/2|1⟩
